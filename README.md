@@ -1,6 +1,6 @@
 # Web-Crawler
 
-This is a simple Web Crawler developed in python using Mercator scheme
+This is a simple Web Crawler developed in Python using Mercator scheme. The code is in ``WebCrawler.ipynb`` file.
 
 ## 1. URL Frontier
 The URL frontier is a structure of front queues and back queues. When the crawler starts for the first time, URL frontier contains the following seed URLs.
